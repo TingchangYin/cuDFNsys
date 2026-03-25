@@ -45,6 +45,9 @@ You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 # Relevant publications
+- [T Yin, SA Galindo-Torres. Role of critical sets in the permeability of random fracture networks: A percolation scaling perspective (2025). Physical Review Research, 7, 043060](https://journals.aps.org/prresearch/abstract/10.1103/m38d-24dl)
+- [T Yin, T Man, P Zhang, SA Galindo-Torres. GPU-accelerated simulation of steady-state flow and particle transport in discrete fracture networks (2025). Applied Computing and Geosciences, 100284](https://www.sciencedirect.com/science/article/pii/S2590197425000667)
+- [T Yin, T Man, P Zhang, SA Galindo-Torres. Péclet‐Number‐Dependent Longitudinal Dispersion in Discrete Fracture Networks (2024). Water Resources Research, 60, e2024WR038437](https://doi.org/10.1029/2024WR038437)
 - [T Yin, T Man, Ling Li, SA Galindo-Torres. Finite-Size Scaling for the Permeability of Discrete Fracture Networks (2023). Geophysical Research Letters, 50, e2022GL100837](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL100837)
 - [T Yin, T Man, SA Galindo-Torres. Universal scaling solution for the connectivity of discrete fracture networks (2022). Physica A: Statistical Mechanics and its Applications 599, 127495](https://www.sciencedirect.com/science/article/abs/pii/S0378437122003557)
 
@@ -244,3 +247,7 @@ _include_: header files containing declarations of functions/classes
 _src_: source files containing definitions of functions/classes
 
 _SomeApplications_: these are all about my personal examples (user's interfaces), with different purposes, meanwhile showing that how to call _cuDFNsys_ functions, with `make` and other tools.
+
+# Acknowledgements
+
+The authors acknowledge the financial support from Hangzhou Team of Innovation Grant No.TD2022004 (measurement and application of microscopicviscosity).
